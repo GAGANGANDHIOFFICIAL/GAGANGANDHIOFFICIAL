@@ -13,7 +13,7 @@
 
 </div >
 
-<h3 align="center">🎨 Fun Fact: I can draw too!</h3>
+<h3 align="center">🎨I can write code using my foot</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/I6VPz1YmO8jte/giphy.gif" width="200" alt="Cat drawing gif"/>
