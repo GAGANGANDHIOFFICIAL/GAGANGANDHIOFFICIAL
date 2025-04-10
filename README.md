@@ -16,7 +16,7 @@
 <h3 align="center">🎨I can write code using my foot</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/I6VPz1YmO8jte/giphy.gif" width="200" alt="Cat drawing gif"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJ4ajF4Zzc1cW56cnVyczVxZWZxdGE2ZWhsZXM5ZWZ1d3FrcHhhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" width="200" alt="Cat drawing gif"/>
 </p>
 
 <picture>
